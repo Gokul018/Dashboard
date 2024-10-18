@@ -8,3 +8,4 @@ setuptools
 altair==5.0.1
 matplotlib
 plotly
+seaborn
